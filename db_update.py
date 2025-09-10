@@ -46,7 +46,7 @@ def validate_people_data(people_data):
             try:
                 float(person['longitude'])
             except (ValueError, TypeError):
-                print(f"❌ Person {person['name']} has invalid longitude: {person['longitude']}")
+                print(f"❌ Person {person['name']} has invalid longitude format.")
                 return False
     
     print("✅ All people data validated successfully")
