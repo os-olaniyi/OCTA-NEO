@@ -5,15 +5,10 @@ Creates connections between people who are already in the database
 """
 
 import os
-from starter_demo import Neo4jLocationNetwork, load_env_file
-
-# def load_env_file(file_path: str):
-#     with open(file_path, 'r') as f:
-#         for line in f:
-#             line = line.strip()
-#             if line and not line.startswith('#') and '=' in line:
-#                 key, value = line.split('=', 1)
-#                 os.environ[key.strip()] = value.strip().strip('"')
+from starter_demo import (
+    Neo4jLocationNetwork,
+    load_env_file
+)
 
 def get_existing_people(network):
     """Get list of all existing people in the database"""

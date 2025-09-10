@@ -1,6 +1,9 @@
 import os
 import json
-from starter_demo import Neo4jLocationNetwork, load_env_file
+from starter_demo import (
+    Neo4jLocationNetwork,
+    load_env_file
+)
 
 def load_people_from_json(json_file_path: str):
     """Load people data from a JSON file"""
