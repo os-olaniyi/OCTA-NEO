@@ -1,0 +1,123 @@
+[
+    {
+      "name": "Wilson",
+      "city": "Berlin",
+      "country": "Germany",
+      "latitude": 52.5200,
+      "longitude": 13.4050,
+      "friends": [
+        {
+          "name": "Roberts",
+          "meeting_city": "Berlin"
+        },
+        {
+          "name": "Brown",
+          "meeting_city": "Paris"
+        }
+      ]
+    },
+    {
+      "name": "Brown",
+      "city": "Paris",
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "friends": [
+        {
+          "name": "Wilson",
+          "meeting_city": "Paris"
+        },
+        {
+          "name": "Callahan",
+          "meeting_city": "Paris"
+        }
+      ]
+    },
+    {
+      "name": "Taylor",
+      "city": "Tokyo",
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "friends": [
+        {
+          "name": "Johnson",
+          "meeting_city": "New York"
+        }
+      ]
+    },
+    {
+      "name": "Anderson",
+      "city": "Sydney",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "friends": [
+        {
+          "name": "Wilson",
+          "meeting_city": "Berlin"
+        },
+        {
+          "name": "Roberts",
+          "meeting_city": "Toronto"
+        }
+      ]
+    },
+    {
+      "name": "Garcia",
+      "city": "Madrid",
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "friends": [
+        {
+          "name": "Brown",
+          "meeting_city": "Paris"
+        },
+        {
+          "name": "Smith",
+          "meeting_city": "London"
+        }
+      ]
+    },
+    {
+      "name": "Chen",
+      "city": "Shanghai",
+      "country": "China",
+      "latitude": 31.2304,
+      "longitude": 121.4737,
+      "friends": [
+        {
+          "name": "Taylor",
+          "meeting_city": "Tokyo"
+        }
+      ]
+    },
+    {
+      "name": "Patel",
+      "city": "Mumbai",
+      "country": "India",
+      "latitude": 19.0760,
+      "longitude": 72.8777,
+      "friends": [
+        {
+          "name": "Anderson",
+          "meeting_city": "Sydney"
+        }
+      ]
+    },
+    {
+      "name": "Silva",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "friends": [
+        {
+          "name": "Garcia",
+          "meeting_city": "Madrid"
+        }
+      ]
+    }
+  ]
+  
